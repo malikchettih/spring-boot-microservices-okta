@@ -1,4 +1,4 @@
-package com.gmail.malikchettih.rd.springbootmicroservices.beercatalogservice.initializer;
+package com.gmail.malikchettih.rd.springbootmicroservices.beercatalogservice;
 
 import com.gmail.malikchettih.rd.springbootmicroservices.beercatalogservice.entity.Beer;
 import com.gmail.malikchettih.rd.springbootmicroservices.beercatalogservice.reporsitory.BeerRepository;
